@@ -1,0 +1,73 @@
+.math {
+  width: 250px;
+  text-align: center;
+  color: magenta;
+  background-color: rgba(98, 253, 202, 0.5);
+  height: 41.6666666667px;
+  line-height: 41.6666666667px;
+  border-radius: 8.3333333333px;
+  font-size: 20.8333333333px; }
+
+.orange {
+  background: orange; }
+
+.purple {
+  background: purple; }
+
+.teal {
+  background: teal; }
+
+.ray {
+  height: 30px; }
+
+.ray:nth-child(1) {
+  width: 350px;
+  margin-left: 50px;
+  background: #9900ff; }
+
+.ray:nth-child(2) {
+  width: 300px;
+  margin-left: 0px;
+  background: #ff00cc; }
+
+.ray:nth-child(3) {
+  width: 350px;
+  margin-left: 50px;
+  background: #ff0033; }
+
+.ray:nth-child(4) {
+  width: 300px;
+  margin-left: 0px;
+  background: #ff6600; }
+
+.ray:nth-child(5) {
+  width: 350px;
+  margin-left: 50px;
+  background: yellow; }
+
+.ray:nth-child(6) {
+  width: 300px;
+  margin-left: 0px;
+  background: #66ff00; }
+
+.ray:nth-child(7) {
+  width: 350px;
+  margin-left: 50px;
+  background: #00ff33; }
+
+.ray:nth-child(8) {
+  width: 300px;
+  margin-left: 0px;
+  background: #00ffcc; }
+
+.ray:nth-child(9) {
+  width: 350px;
+  margin-left: 50px;
+  background: #0099ff; }
+
+.ray:nth-child(10) {
+  width: 300px;
+  margin-left: 0px;
+  background: blue; }
+
+/*# sourceMappingURL=main3.css.map */
